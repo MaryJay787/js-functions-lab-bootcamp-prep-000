@@ -14,5 +14,6 @@ function happyHolidaysTo(name) {
 }
 
 function hoidayCountdown(holiday, days) {
-  console.log('It\'s ${days} days until ${holiday}!' === "It\'s " 20 "days until Mothers day ")
+  console.log('It\'s ${days} days until ${holiday}!' === "It\'s " 20 "days until Mother's Day!")
+  return "Its 20 days until Mothers Day!"
 }
