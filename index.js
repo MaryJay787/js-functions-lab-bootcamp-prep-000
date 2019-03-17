@@ -12,3 +12,7 @@ function happyHolidaysTo(name) {
   console.log('Happy ${holiday}, ${name}!' === "Happy Eid, Kaba!");
   return "Happy Eid, Kaba!";
 }
+
+function hoidayCountdown(holiday, days) {
+  console.log('It\'s ${days} days until ${holiday}!' === "It\'s 23 days until ")
+}
