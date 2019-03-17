@@ -9,6 +9,6 @@ function happyHolidaysTo(name) {
 }
 
 function happyHolidaysTo(holiday, name) {
-  console.log("Happy ${holiday}, ${name}!" === "Happy Eid, Kaba!")
-  return "Happy Eid, Kaba!"
+  console.log("Happy ${holiday}, ${name}!" === "Happy Eid, Kaba!");
+  return "Happy Eid, Kaba!";
 }
